@@ -9,7 +9,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c99bf4f5-5a2e-474f-85d1-3c31bc4447d4" name="Changes" comment="Idk" />
+    <list default="true" id="c99bf4f5-5a2e-474f-85d1-3c31bc4447d4" name="Changes" comment="Idk">
+      <change beforePath="$PROJECT_DIR$/.idea/modules/snakeGame.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/snakeGame.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/snakeGame.main.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/snakeGame.main.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/snakeGame.test.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules/snakeGame.test.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/GamePanel.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/GamePanel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/GamePanel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/GamePanel.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -83,6 +91,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
   </component>
   <component name="ProjectId" id="1vzV4vLKExLcpLkiyTDwAlquDoE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -103,7 +112,7 @@
       <command value="gradle compileJava" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.SnakeGame">
+  <component name="RunManager" selected="Gradle.snakeGame [jar]">
     <configuration name="SnakeGame" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="SnakeGame" />
       <module name="snakeGame.main" />
@@ -111,7 +120,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="snakeGame [classes]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="snakeGame [classes]" type="GradleRunConfiguration" factoryName="Gradle">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
@@ -199,7 +208,6 @@
       <list>
         <item itemvalue="Gradle.snakeGame [jar]" />
         <item itemvalue="Gradle.snakeGame [compileJava]" />
-        <item itemvalue="Gradle.snakeGame [classes]" />
         <item itemvalue="Gradle.snakeGame [test]" />
       </list>
     </recent_temporary>
@@ -233,6 +241,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Idk" />
